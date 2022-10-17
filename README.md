@@ -1,7 +1,9 @@
 
 # Github test repo
+**Note**: This is a test repo to practice using GitHub
 
-1. R iris petal dataset 
+1. Dataset description:
+* R iris petal dataset 
 
 2. Publication not associated
 
