@@ -1,11 +1,11 @@
 
 # Github test repo
 
-# R iris petal dataset 
+1. R iris petal dataset 
 
-# Publication not associated
+2. Publication not associated
 
-# Column labels: 
+3. Column labels: 
 * petlen: Petal length (in cm)
 * petwidth: Petal width (in cm)
 
