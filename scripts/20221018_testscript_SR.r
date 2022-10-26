@@ -13,6 +13,7 @@ pdf("output/test_plot.pdf")
 plot(petal_length, petal_width)
 dev.off()
 
-#Thanks Serina! :)
 
-#Hello
+
+
+
