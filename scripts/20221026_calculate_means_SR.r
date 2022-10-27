@@ -80,6 +80,7 @@ ggsave("output/DEET_mean_biotransformation_rate_barplot.png",
        width = 1600,
        height = 1000,
        units = "px")
+means$compound <- fct_rev(means$compound)
 #create heatmap of mean transformation rates per compound and condition
 rate_heatmap <- ggplot(means, aes(x = treatment, y = compound, fill = rate_mean)) +
   geom_tile() +
